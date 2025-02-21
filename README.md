@@ -1,0 +1,1 @@
+# flutter-aws-amplify-aws-cognito-auth
